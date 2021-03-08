@@ -1,0 +1,16 @@
+C:\Users\Максим\Desktop\test\womensday\bin\Debug\net5.0\womensday.exe
+C:\Users\Максим\Desktop\test\womensday\bin\Debug\net5.0\womensday.deps.json
+C:\Users\Максим\Desktop\test\womensday\bin\Debug\net5.0\womensday.runtimeconfig.json
+C:\Users\Максим\Desktop\test\womensday\bin\Debug\net5.0\womensday.runtimeconfig.dev.json
+C:\Users\Максим\Desktop\test\womensday\bin\Debug\net5.0\womensday.dll
+C:\Users\Максим\Desktop\test\womensday\bin\Debug\net5.0\ref\womensday.dll
+C:\Users\Максим\Desktop\test\womensday\bin\Debug\net5.0\womensday.pdb
+C:\Users\Максим\Desktop\test\womensday\obj\Debug\net5.0\womensday.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\test\womensday\obj\Debug\net5.0\womensday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\test\womensday\obj\Debug\net5.0\womensday.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\test\womensday\obj\Debug\net5.0\womensday.AssemblyInfo.cs
+C:\Users\Максим\Desktop\test\womensday\obj\Debug\net5.0\womensday.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\test\womensday\obj\Debug\net5.0\womensday.dll
+C:\Users\Максим\Desktop\test\womensday\obj\Debug\net5.0\ref\womensday.dll
+C:\Users\Максим\Desktop\test\womensday\obj\Debug\net5.0\womensday.pdb
+C:\Users\Максим\Desktop\test\womensday\obj\Debug\net5.0\womensday.genruntimeconfig.cache
